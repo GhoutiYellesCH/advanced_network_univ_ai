@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.*;
 import java.swing.JOptionPane;
 
-public class client {
+public class TcpClient {
   public static void main(String[] args) {
     String ServerName = "127.0.0.1";
     int port = 9500;
